@@ -23,5 +23,6 @@ public double getFee()
 public void setFee(double mfee)
 {fee=mfee; }
 public String toString()
-{ return name+address+program+year+fee; }
+{ return name+address+program+year+fee;
+}
 }
